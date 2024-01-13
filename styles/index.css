@@ -2,13 +2,8 @@
     color: black;
 }
 
-body {
-    background-image: url("/assets/img/barbieimg.jpeg");
-
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-
-    width: 100vw;
-    height: 100vh;
+img {
+    border-radius: 50%;
+    width: 500px;
+    height: 500px;
 }
