@@ -1,3 +1,9 @@
 .hero{
     color: black;
 }
+
+body {
+    background-image: url("/assets/img/barbieimg.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
